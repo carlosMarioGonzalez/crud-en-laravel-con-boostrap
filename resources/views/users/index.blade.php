@@ -157,7 +157,7 @@
     <script>
         $(document).ready(function() {
             $('#usertable').DataTable({
-                responsive: true,
+                autoWidth: false
                
                 
             });
